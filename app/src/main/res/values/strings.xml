@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="action_quit">Quit</string>
+    <string name="studentID">N01107705</string>
+    <string name="tv_message">Message</string>
+    <string name="tv_student_id">Student ID</string>
+    <string name="receiver">Receiver</string>
+    <string name="ret_button">Return</string>
+</resources>
